@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learning-react-the-complete-Guide-2nd-assignment/static/css/main.16f53098.chunk.css",
-    "main.js": "/learning-react-the-complete-Guide-2nd-assignment/static/js/main.e0a19a0f.chunk.js",
-    "main.js.map": "/learning-react-the-complete-Guide-2nd-assignment/static/js/main.e0a19a0f.chunk.js.map",
+    "main.js": "/learning-react-the-complete-Guide-2nd-assignment/static/js/main.e4ceb447.chunk.js",
+    "main.js.map": "/learning-react-the-complete-Guide-2nd-assignment/static/js/main.e4ceb447.chunk.js.map",
     "runtime-main.js": "/learning-react-the-complete-Guide-2nd-assignment/static/js/runtime-main.8c709e0c.js",
     "runtime-main.js.map": "/learning-react-the-complete-Guide-2nd-assignment/static/js/runtime-main.8c709e0c.js.map",
     "static/js/2.57b5a902.chunk.js": "/learning-react-the-complete-Guide-2nd-assignment/static/js/2.57b5a902.chunk.js",
     "static/js/2.57b5a902.chunk.js.map": "/learning-react-the-complete-Guide-2nd-assignment/static/js/2.57b5a902.chunk.js.map",
     "index.html": "/learning-react-the-complete-Guide-2nd-assignment/index.html",
-    "precache-manifest.03c19894934e77bf350ddec727fde9a1.js": "/learning-react-the-complete-Guide-2nd-assignment/precache-manifest.03c19894934e77bf350ddec727fde9a1.js",
+    "precache-manifest.e69fc88e16c7e4211ab26694a4e4ea6a.js": "/learning-react-the-complete-Guide-2nd-assignment/precache-manifest.e69fc88e16c7e4211ab26694a4e4ea6a.js",
     "service-worker.js": "/learning-react-the-complete-Guide-2nd-assignment/service-worker.js",
     "static/css/main.16f53098.chunk.css.map": "/learning-react-the-complete-Guide-2nd-assignment/static/css/main.16f53098.chunk.css.map",
     "static/js/2.57b5a902.chunk.js.LICENSE": "/learning-react-the-complete-Guide-2nd-assignment/static/js/2.57b5a902.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8c709e0c.js",
     "static/js/2.57b5a902.chunk.js",
     "static/css/main.16f53098.chunk.css",
-    "static/js/main.e0a19a0f.chunk.js"
+    "static/js/main.e4ceb447.chunk.js"
   ]
 }
