@@ -4,7 +4,8 @@ const instructions = () => {
 
     return (
         <div>
-            <h1>Instructions</h1>
+            <h2>Second assignment based on React course - Working with Lists and Conditionals</h2>
+            <h3> React - The Complete Guide (incl Hooks, React Router, Redux) https://www.udemy.com/course/react-the-complete-guide-incl-redux/ </h3>   
             <ol>
                 <li>Create an input field (in App component) with a change listener which outputs the length of the entered text below it (e.g. in a paragraph).</li>
                 <li>Create a new component (=> ValidationComponent) which receives the text length as a prop</li>
