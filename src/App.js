@@ -8,21 +8,23 @@ class App extends Component {
   
   state = {text: ''}
 
+  splitText = () => this.state.text.split("");
+
   changedTextHandler = (event) => {
     this.setState({text: event.target.value });
   };
 
   removeLetterHandler = (index) => {
-    const array = this.state.text.split("");
-    array.splice(index,1);
-    const text = array.join("");
+    const splitText = this.splitText();
+    splitText.splice(index,1);
+    const text = splitText.join("");
     this.setState({text}); 
   }
 
   render(){
 
     const letters = (
-       this.state.text.split("").map((a,index) =>{
+      this.splitText().map((a,index) =>{
          return ( <CharComponent 
                     clicked={this.removeLetterHandler.bind(this,index)} 
                     letter={a} 
